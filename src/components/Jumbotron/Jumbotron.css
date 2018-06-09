@@ -1,0 +1,10 @@
+.jumbotron {
+    color: white;
+    background-image: url('./jumbotronbkg.jpg');
+    background-repeat: repeat;
+}
+
+.dark-box {
+    background-color: rgb(23,162,184, 0.8);
+    padding: 25px 25px 20px;
+}

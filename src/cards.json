@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Finn",
+      "image": "./public/images/Finn.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jake",
+      "image": "./public/images/Jake.jpg"
+    },
+    {
+      "id": 3,
+      "name": "bmo",
+      "image": "./public/images/bmo.jpg"
+    },
+    {
+      "id": 4,
+      "name": "flameprincess",
+      "image": "./public/images/flameprincess.jpg"
+    },
+    {
+      "id": 5,
+      "name": "gunter",
+      "image": "./public/images/gunter.jpg"
+    },
+    {
+      "id": 6,
+      "name": "iceking",
+      "image": "./public/images/iceking.jpg"
+    },
+    {
+      "id": 7,
+      "name": "lemongrab",
+      "image": "./public/images/lemongrab.jpg"
+    },
+    {
+      "id": 8,
+      "name": "LSP",
+      "image": "./public/images/LSP.jpg"
+    },
+    {
+      "id": 9,
+      "name": "marceline",
+      "image": "./public/images/marceline.jpg"
+    },
+    {
+      "id": 10,
+      "name": "peppermintbutler",
+      "image": "./public/images/peppermintbutler.jpg"
+    },
+    {
+      "id": 11,
+      "name": "princessbubblegum",
+      "image": "./public/images/princessbubblegum.jpg"
+    },
+    {
+      "id": 12,
+      "name": "rainicorn",
+      "image": "./public/images/rainicorn.jpg"
+    }
+  ]
+  
